@@ -2,6 +2,7 @@
 🔭 I’m currently working on<br><br>Frontend development using React.js<br><br>Backend development using Java<br><br>Building small to medium full-stack web applications<br><br>👯 I’m looking to collaborate on<br><br>React-based web projects<br><br>Beginner-friendly open-source projects<br><br>Full-stack applications (Frontend + Backend)<br><br>🤝 I’m looking for help with<br><br>Backend architecture and REST APIs<br><br>Integrating React with Java backend<br><br>Writing clean, scalable code<br><br>🌱 I’m currently learning<br><br>Advanced React concepts<br><br>Java (Core & Advanced)<br><br>ES6 JavaScript features<br><br>DSA basics<br><br>💬 Ask me about<br><br>Java (Core & Advanced)<br><br>ES6 JavaScript<br><br>DSA fundamentals<br><br>HTML, CSS, JavaScript & React basics<br><br>⚡ Fun fact<br>🔍 I enjoy understanding how things work behind the scenes, not just making them work.
 
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hitmanravi5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravi-kumar-ishwar-a39a48240) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ravikumarishwar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RaviIshwar3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravikumarishwar45@gmail.com) 
 
