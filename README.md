@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=700&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Ravi+Kr+Ishwar;Full+Stack+Java+Developer+💻;Frontend+%7C+Java+%7C+Spring+Boot+%7C+REST+APIs;Building+Awesome+Projects+Everyday+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Ravi+Kr+Ishwar;Full+Stack+Java+Developer+%F0%9F%92%BB;Frontend+%7C+Java+%7C+Spring+Boot+%7C+REST+APIs;Building+Awesome+Projects+Everyday+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">🚀 Full Stack Java Developer</h3>
-<p align="center"><b> Frontend | Java | Spring Boot | REST APIs</b></p>
+<p align="center"><b>Frontend | Java | Spring Boot | REST APIs</b></p>
 
 <img align="right" alt="Coding" width="260" 
      src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"
