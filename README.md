@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">🚀 Full Stack Java Developer</h3>
-<p align="center"><b>Frontend | Java | Spring Boot | REST APIs</b></p>
+<p align="center"><b> Frontend | Java | Spring Boot | REST APIs</b></p>
 
 <img align="right" alt="Coding" width="260" 
      src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"
