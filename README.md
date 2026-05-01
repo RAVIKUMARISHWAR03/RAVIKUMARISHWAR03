@@ -60,11 +60,6 @@
 </td>
 
 <td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="36"/><br>
-  <span style="font-size:12px;">Bootstrap</span>
-</td>
-
-<td align="center" width="80">
   <img src="https://skillicons.dev/icons?i=vite" width="36"/><br>
   <span style="font-size:12px;">Vite</span>
 </td>
