@@ -21,7 +21,7 @@
 - 🎨 Craft **responsive & interactive UIs** with React, JavaScript, HTML5, CSS3 & Tailwind CSS  
 - 🔐 Implement **secure authentication & authorization** with Spring Security & JWT  
 - 🗄️ Work with **relational databases** using JPA / Hibernate / JDBC  
-- 🧠 Focus on **System Design, Clean Architecture & Performance Optimization**
+- 🚀 Write **clean, maintainable code** with a focus on best practices & performance optimization
 
 ---
 <h3><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3E4ZnNoeGVxY2E3dWFmcHdqd21vcWo3eDM3OWg4MGxtOHZuYTl1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUA7aXvRDAkfFUsVbO/giphy.gif" width="60" align="absmiddle"><b>Tech Stack : </b></h3>
@@ -32,31 +32,6 @@
 <td align="center" width="80">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="36"/><br>
   <span style="font-size:12px;">Java</span>
-</td>
-
-<td align="center" width="80">
-  <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="36"/><br>
-  <span style="font-size:12px;">Spring Boot</span>
-</td>
-
-<td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=spring" width="36"/><br>
-  <span style="font-size:12px;">Spring</span>
-</td>
-
-<td align="center" width="80">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="36"/><br>
-  <span style="font-size:12px;">MySQL</span>
-</td>
-
-<td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=hibernate" width="36"/><br>
-  <span style="font-size:12px;">Hibernate</span>
-</td>
-
-<td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=react" width="36"/><br>
-  <span style="font-size:12px;">React</span>
 </td>
 
 <td align="center" width="80">
@@ -75,6 +50,11 @@
 </td>
 
 <td align="center" width="80">
+  <img src="https://skillicons.dev/icons?i=react" width="36"/><br>
+  <span style="font-size:12px;">React</span>
+</td>
+
+<td align="center" width="80">
   <img src="https://skillicons.dev/icons?i=tailwind" width="36"/><br>
   <span style="font-size:12px;">Tailwind</span>
 </td>
@@ -85,22 +65,32 @@
 </td>
 
 <td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=firebase" width="36"/><br>
-  <span style="font-size:12px;">Firebase</span>
-</td>
-
-<td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=figma" width="36"/><br>
-  <span style="font-size:12px;">Figma</span>
-</td>
-
-<td align="center" width="80">
   <img src="https://skillicons.dev/icons?i=vite" width="36"/><br>
   <span style="font-size:12px;">Vite</span>
 </td>
 
+<td align="center" width="80">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="36"/><br>
+  <span style="font-size:12px;">MySQL</span>
+</td>
+
+<td align="center" width="80">
+  <img src="https://skillicons.dev/icons?i=hibernate" width="36"/><br>
+  <span style="font-size:12px;">Hibernate</span>
+</td>
+
 </tr>
 <tr>
+
+<td align="center" width="80">
+  <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="36"/><br>
+  <span style="font-size:12px;">Spring Boot</span>
+</td>
+
+<td align="center" width="80">
+  <img src="https://skillicons.dev/icons?i=spring" width="36"/><br>
+  <span style="font-size:12px;">Spring</span>
+</td>
 
 <td align="center" width="80">
   <img src="https://skillicons.dev/icons?i=fastapi" width="36"/><br>
@@ -135,16 +125,6 @@
 <td align="center" width="80">
   <img src="https://skillicons.dev/icons?i=c" width="36"/><br>
   <span style="font-size:12px;">C</span>
-</td>
-
-<td align="center" width="80">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Canva_Logo.png/900px-Canva_Logo.png" width="36"/><br>
-  <span style="font-size:12px;">Canva</span>
-</td>
-
-<td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=photoshop" width="36"/><br>
-  <span style="font-size:12px;">Photoshop</span>
 </td>
 
 </tr>
